@@ -1,4 +1,7 @@
 # Database Management for Retail Application
+## 18CSC303J - DBMS
+ - Hardik Srivastava (RA1911027010021)
+ - Snehith Reddy Kondakalla (RA1911027010055)
 ### Problem Statement:
 * A Retail business organization (target) is not able to handle and maintain the details of potential market.
 * It is unable to manage various employees who belong to various departments, information about the customers and sold products their defects, quality and Voucher details etc.
